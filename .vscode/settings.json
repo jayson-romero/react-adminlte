@@ -1,0 +1,9 @@
+{
+	"workbench.tree.renderIndentGuides": "always",
+	"html.format.indentHandlebars": false,
+	"sass.disableAutoIndent": false,
+	"editor.insertSpaces": true,
+	"editor.formatOnSave": true,
+	"html.format.contentUnformatted": "",
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
+}
